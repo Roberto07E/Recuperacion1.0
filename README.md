@@ -2,7 +2,7 @@ Recuperacion
 Roberto Alfonso Escamilla Ruiz
 20220356
 
--+nmp install firebase+
+-nmp install firebase
 -npm install expo-constants
 -npm install react-native-dotenv
 -npm install react-native-gesture-handler
