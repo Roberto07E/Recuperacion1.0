@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "firebase-app",
+    "slug": "firebase-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconos.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/iconos.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconos.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gerson8098.firebaseapp"
+    },
+    "web": {
+      "favicon": "./assets/iconos.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9a155a9e-bb22-4f1f-b308-b11def69b8af"
+      }
+    }
+  }
+}
